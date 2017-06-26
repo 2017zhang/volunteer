@@ -1,0 +1,33 @@
+/**/
+html {
+  font-size: 62.5%;
+  background: #fafafa;
+  width: 100%;
+}
+body {
+  font-size: 62.5%;
+  height: 100%;
+  font-family: 宋体;
+  background: 宋体;
+}
+.headtop {
+  font-size: 1.2rem;
+  padding: 0 10%;
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tel {
+  color: #29b078;
+  line-height: 2.3rem;
+}
+.headmiddle {
+  border-radius: 0;
+  background: #29b078;
+  font-size: 1.7rem;
+  margin: 0;
+}
+.headmiddle .headmiddle1 .headmiddle2 ul a {
+  color: #fff;
+}
